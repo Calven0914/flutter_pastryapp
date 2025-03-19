@@ -1,0 +1,41 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  
+  
+
+flutter:
+  uses-material-design: true
+
+assets:
+  - assets/images/crois.jpg
+  - assets/images/bagu.jpg
+  - assets/images/maca.jpg
+  - assets/images/donut.jpg
+  - assets/images/applepie.jpg
+  - assets/images/brownie.jpg
+  - assets/images/casta.jpg
+  - assets/images/canno.jpg
+  - assets/images/sfo.jpg
+  - assets/images/macha.jpeg
+  - assets/images/anpan.jpg
+  - assets/images/taiyaki.jpg
+  - assets/images/wheel.png
+  - assets/images/logo.jpg
